@@ -1,0 +1,54 @@
+  
+  ul a:hover{
+    background-color: #e7f9fd;
+}
+.bardroite{
+    height: 1040px;
+}
+.container{
+   margin-top: 10%;
+}
+.row{
+    width: 450px;
+    margin: auto;
+}
+    .bout{
+        margin-top: 50px;
+    }
+    @media screen and (max-width:375px) {
+        .row{
+            width: 100% !important;
+            margin-top: 50%;
+        }
+    }
+
+
+
+
+    @media screen and (max-width:425px) {
+        .row{
+            width: 100% !important;
+            margin-top: 50%;
+        }
+
+
+
+
+
+    }
+    @media screen and (max-width:768px) {
+        .row{
+            width: 100% !important;
+            margin-top: 30%;
+        }
+
+
+
+
+    }
+    @media screen and (max-width:1024px) {
+        .row{
+            width: 100% !important;
+            margin-top: 0%;
+        }
+    }

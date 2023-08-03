@@ -1,0 +1,556 @@
+.d-flex{
+    background-color:#d0e9ef;
+}
+.cap{
+    margin-left: auto;  
+}
+.u{
+  margin-top: 500px;
+    text-decoration: none;
+}
+.ddd{
+    text-decoration: none;
+    margin-left: 20px;
+}
+.poure{
+  width: 50%;
+  margin-top: 80px;
+}
+.te{
+  display: flex;
+  justify-content: center;
+}
+.ra{
+    margin-bottom: 20px;
+    margin-top: 30rem;
+    
+}
+
+.re{
+    margin-bottom: 45px;
+    text-decoration: none;
+}
+
+.a{
+    border-radius: 12px;
+    
+}
+.navbar{
+  width: 101% !important;
+}
+li a:hover{
+  border-radius: 5px;
+  background-color: #e7f9fd;
+}
+.ra:hover{
+  flex-direction: column;
+  border-radius: 5px;
+  background-color: #e7f9fd;
+}
+.re:hover{
+  border-radius: 5px;
+  background-color: #e7f9fd;
+}
+.restpon{
+  font-family: bs-font-sans-serif;
+}
+.fin{
+  font-family: bs-font-sans-serif;
+}
+.poure{
+  font-family: bs-font-sans-serif;
+}
+.deu{
+  margin-top: 680px;
+}
+.bardroit{
+  height: 100% !important;
+}
+.bardroit{
+  padding-bottom: 27rem !important;
+}
+
+/* circle1 */
+
+h4{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  margin-left: 80px;
+  margin-top: 10px;
+  padding: 15px
+}
+
+
+:root {
+  --dot-diameter: 250px;
+  --circle-border-width: 3px;
+  --default-color: #55abbd;
+}
+h5{
+  color: white;
+  
+}
+
+.container {
+  width: 280px;
+  height: 300px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background-color: #4a96a6;
+  border-radius: 15px;
+  margin-left: 50px;
+  margin-top: 30px;
+  
+}
+.containere{
+  width: 280px;
+  height: 300px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background-color:white;
+  border-radius: 15px;
+  margin-left: 50px;
+  margin-top: 30px;
+  border: solid;
+  border-color: #4a96a6;
+}
+.qa{
+  display: flex;
+  justify-content: center;
+  color: white;
+  margin-top: 40px;
+  font-size: 40px;
+}
+.qas{
+  justify-content: center;
+  display: flex;
+  color:#4a96a6;
+  font-size: 20px;
+  
+}
+buttone{
+  width: 50px;
+  height: 130px;
+  border-radius: 50%;
+  border: none;
+  background-color:#bed9df;
+  margin-top: 40px;
+  border: solid;
+  border-color: #4a96a6;
+
+}
+
+
+
+.circle-container {
+  width: var(--dot-diameter);
+  transform: rotate(-225deg);
+  fill: none;
+  stroke: white;
+  stroke-dasharray: 81 100;
+  stroke-linecap: round;
+  margin-top: 10px;
+  margin-left: 20px;
+  
+}
+.circle-containere{
+  width: var(--dot-diameter);
+  transform: rotate(-225deg);
+  fill: none;
+  stroke: white;
+  stroke-dasharray: 81 100;
+  stroke-linecap: round;
+  margin-top: 10px;
+  margin-left: 20px;
+  margin-left: 30px;
+  
+  
+}
+
+.circle-container__background {
+  fill: none;
+  stroke: var(--default-color);
+  stroke-width: var(--circle-border-width);
+  stroke-dasharray: 75 100;
+}
+.circle-container__backgrounds{
+  fill: none;
+  stroke: #f4f5f9;
+  stroke-width: var(--circle-border-width);
+  stroke-dasharray: 75 100;
+}
+
+.circle-container__progress {
+  fill: none;
+  stroke-width: var(--circle-border-width);
+  transition: stroke-dashoffset 1s ease-in-out;
+  
+}
+.circle-container__progresse{
+  fill: none;
+  stroke: #4a96a6;
+  stroke-width: var(--circle-border-width);
+  transition: stroke-dashoffset 1s ease-in-out;
+}
+
+
+
+/* servive client */
+.tttt{
+  width: 90%;
+  margin-left: 50px;
+}
+.abassa{
+  width: 90%;
+  margin-left: 50px;
+}
+button{
+  width: 100px;
+  height: 40px;
+  border: none;
+  background-color: #4a96a6;
+  border-radius: 5px;
+  color: white;
+  margin-top: 5px;
+}
+.soum{
+  display: flex;
+  text-align: center;
+}
+.qqqq{
+  color: red;
+}
+/* Voir */
+.zzz{
+  text-align: center;
+  width: 80%;
+
+}
+.aaa{
+  width: 85%;
+  border-top-color: white;
+}
+.ttt{
+  width: 90%;
+  height: 95%;
+  border-color: white;
+}
+.aziz{
+ 
+  flex-direction: column;
+  justify-content: center;
+}
+.cool{
+  width: 30%;
+  margin-left: 20px;
+  margin-top: 20px;
+}
+.www{
+  width: 850px;
+  height: 150px;
+  background: rgb(80,168,9);
+  background: linear-gradient(90deg, rgba(80,168,9,1) 9%, rgba(230,161,40,1) 39%, rgba(231,118,14,1) 63%, rgba(255,0,0,1) 100%);
+  margin-top: 32px;
+  margin-left: 1%;
+  
+}
+.al{
+  display: flex;
+  font-size: 50px;
+  margin-left: 95%;
+  margin-top: 40px;
+  
+}
+.text{
+  margin-left: 50px;
+  margin-top: 40px;
+}
+.color{
+  display: flex;
+}
+.mane{
+  margin-top: 20%;
+}
+/* ressponsivedashboard */
+
+@media screen and (max-width:375px) {
+.restpon{
+  display: flex;
+  flex-direction:column;
+  margin: 0;
+  
+}
+.vote div{
+  width:50px !important;
+  padding-top:1650%;
+}
+.deux{
+  margin-top: -1600%;
+}
+.container{
+  margin-left:-5px;
+}
+.containere{
+  margin-left: -5px;
+}
+ #myChart{
+  width: 250px !important;
+  height: 130px !important;
+} 
+.line{
+  width: 100%;
+  margin-left: 0 !important;
+}
+.bar h4,.fin h4{
+  margin-left: 0 !important;
+}
+.sous{
+  width: 85%;
+}
+.conss{
+  width: 100%;
+}
+.envoi{
+  width: 85%;
+}
+.largeur{
+  width: 70% !important;
+}
+
+.color{
+  display: flex;
+  flex-direction: column;
+}
+.www{
+  width: 480px !important;
+}
+ .text{
+  width: 90% !important;
+}
+.connexion{
+  width: 10%;
+}
+.poure{
+  width:200%;
+}
+.poure{
+  width: 100%;
+}
+.inform{
+  display: flex;
+  flex-direction: column;
+  width: 250%;
+}
+.bardroit{
+  padding-bottom: 60px !important;
+  height: 35% !important;
+
+}
+.mais{
+  width: 80% !important;
+}
+.mai{
+  width: 80% !important;
+}
+.bardroite{
+  width: 13% !important;
+  
+}
+.d-inp {
+  display: none;
+  justify-items: center;
+  justify-content: center;
+}
+.sear {
+  width: 100% !important;
+}
+.scales{
+  height: 110px !important;
+}
+.search{
+  display: none;
+  justify-items:center ;
+  justify-content: center;
+  
+
+}
+.al{
+  margin-right: 15px;
+  justify-content: center;
+  flex-direction: column;
+  align-items: center;
+}
+.louis{
+  width: 22rem !important;
+}
+
+
+
+}
+
+
+
+
+@media screen and (max-width:425px) {
+  .restpon{
+    display: flex;
+    flex-direction:column;
+    margin: 0;
+  }
+  .al{
+    margin-right: 15px;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+  }
+  .vote div{
+    width:50px !important;
+    padding-top:1650%;
+  }
+  .deux{
+    margin-top: -1600%;
+  }
+  .line{
+    width: 100%;
+    margin-left: 0 !important;
+  }
+  .bar h4,.fin h4{
+    margin-left: 0 !important;
+  }
+  .poure{
+    margin: auto;
+    width: 100%;
+  }
+  .envoi{
+    width: 85%;
+  }
+  .sous{
+    width: 85%;
+  }
+  .live{
+    width: 140%;
+  }
+  .louis{
+    width: 24rem !important;
+  }
+  .color{
+    display: flex;
+    flex-direction: column;
+  }
+  .www{
+    width: 30rem !important;
+  }
+   .text{
+    width: 95% !important;
+  }
+  .u{
+    padding-top: 250px !important;
+  }
+  .largeur{
+    width: 80% !important;
+  }
+  
+  /* factu */
+  .bardroite{
+    padding-top: 50px !important;
+    width: 15% !important;
+  }
+  .bardroit{
+    padding-bottom: 60rem !important;
+    
+  }
+  .poure{
+    width: 100% !important;
+  }
+  .mais{
+    width: 80% !important;
+  }
+  .mai{
+    width: 85% !important;
+  }
+  .inform{
+    display: flex;
+    flex-direction: column;
+    width: 250%;
+  }
+  .sear {
+    width: 100% !important;
+  }
+  .scales{
+    height: 110px !important;
+  }
+  .search{
+    display: none;
+    justify-items:center ;
+    justify-content: center;
+    
+  
+  }
+}
+@media screen and (max-width:768px) {
+  .bardroite{
+    display: flex;
+    justify-content: center;
+    width: 50px;
+  }
+  .louis{
+    width: 97% !important;
+  }
+  .color{
+    display: flex;
+    flex-direction: column;
+  }
+ 
+  .www{
+    width: 98% !important;
+  }
+  .largeur{
+    width:97% !important;
+  }
+  .ra{
+    margin-top: 35rem !important;
+  }
+.large{
+  width:92%;
+}
+.poure{
+  margin-top: 100px;
+}
+.bardroit{
+  padding-bottom: 29rem !important;
+}
+.sear {
+  width: 100% !important;
+}
+
+
+}
+@media screen and (max-width:1024px) {
+  .poure{
+    width: 50%;
+  }
+  .al{
+  margin-right: 15px;
+  justify-content: center;
+  flex-direction: column;
+  align-items: center;
+}
+  .bardroit{
+    padding-bottom: 19rem !important;
+  }
+  
+}
+@media screen and (max-width:1440px) {
+  .poure{
+    width: 90%;
+  }
+}
+
+
+
+

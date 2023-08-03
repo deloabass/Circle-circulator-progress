@@ -1,0 +1,115 @@
+.d-flex{
+    background-color: #d0e9ef;
+}
+.cap{
+    margin-left: auto;
+    color: white;
+    
+}
+.u{
+    margin-top: 540px;
+}
+.ddd{
+    text-decoration: none;
+    margin-left: 20px;
+    
+   
+}
+.te{
+  display: flex;
+  justify-content: center;
+}
+.ra{
+    margin-bottom: 20px;
+}
+
+.re{
+    margin-bottom: 45px;
+    text-decoration: none;
+    #4a96a6
+}
+
+.a{
+    border-radius: 12px;
+}
+
+
+/* circle1 */
+
+h4{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  margin-left: 80px;
+  margin-top: 30px;
+  padding: 20px
+}
+@import url('https://fonts.googleapis.com/css2?family=Lilita+One&display=swap');
+
+:root {
+  --dot-diameter: 250px;
+  --circle-border-width: 3px;
+  --default-color: gainsboro;
+  font-family: 'Lilita One', cursive;
+}
+
+span {
+  color: transparent;
+  color: black;
+  flex-direction: column;
+  
+}
+
+.container {
+  width: 300px;
+  height: 00px;
+  display: flex;
+  flex-direction: column;
+  background-color: #4a96a6;
+  border-radius: 15px;
+  margin-left: 50px;
+  
+}
+
+
+
+
+.circle-container {
+  width: var(--dot-diameter);
+  transform: rotate(-225deg);
+  fill: none;
+  stroke: white;
+  stroke-dasharray: 81 100;
+  stroke-linecap: round;
+  margin-top: 100px;
+  
+}
+
+.circle-container__background {
+  fill: none;
+  stroke: var(--default-color);
+  stroke-width: var(--circle-border-width);
+  stroke-dasharray: 75 100;
+  stroke-linecap: round;
+  
+}
+
+.circle-container__progress {
+  fill: none;
+  stroke-linecap: round;
+  stroke-linecap: round;
+ 
+  stroke-linecap: round;
+  stroke-width: var(--circle-border-width);
+  transition: stroke-dashoffset 1s ease-in-out;
+}
+
+.stop1 {
+  stop-color: white;
+}
+  
+
+
+
+
+
